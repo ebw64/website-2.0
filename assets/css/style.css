@@ -427,7 +427,7 @@ section .container {
 .about-me .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #18d26e;
+  color: #ffffff;
   line-height: 0;
 }
 
@@ -1007,7 +1007,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #18d26e;
+  color: #ffffff;
   border-radius: 50%;
   padding: 14px;
   float: left;
